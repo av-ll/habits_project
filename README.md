@@ -12,6 +12,8 @@ Then clone this software’s files into a folder in your computer.
 
 On linux and mac 
 
+open terminal/command line
+
 cd [the directory you cloned into]
  
 Run the following commands.
