@@ -36,6 +36,8 @@ conda install -c anaconda ipython
 
 conda install -c conda-forge freezegun
 
+conda install jupyter
+
 start with 
 
 ipython habits_app.ipynb
