@@ -10,6 +10,8 @@ download and install it for your operating system.
  
 Then clone this software’s files into a folder in your computer.
 
+git clone https://github.com/av-ll/habits_project
+
 On linux and mac 
 
 open terminal/command line
