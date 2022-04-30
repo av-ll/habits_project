@@ -34,7 +34,7 @@ Install the required dependencies with
 
 conda install -c anaconda ipython
 
-conda install -c freezegun
+conda install -c conda-forge freezegun
 
 start with 
 
