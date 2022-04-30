@@ -43,8 +43,10 @@ start with
 ipython habits_app.ipynb
 
 
-Inside the test suite folder
+Inside the testdata folder
 
  You can find a pickle file you can copy in the same folder as the python file or vice-versa in order to see some sample data and test usage.
+ 
+ Either way to do this just open run jupyter notebook ,open the file in there and uncomment the import freezegun part and also uncomment the part that uses this library right below that import to simulate the date in the sample test data
 
 
